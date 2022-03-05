@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = 18341624+xujiayi1256@users.noreply.github.com
+	name = Jiayi Xu
